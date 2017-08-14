@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-﻿59031456 คดหกดานยนยส 
+59031456 คดหกดานยนยส 
 59035642 ฟหยกไ วส
 59324694 กฟหดำไนรดำดทื
-=======
-123456 Koson Trachu
-waiting for Ajarn Su to success pushing.
->>>>>>> 2177d47dbb0c5a33a608a3cf13dfe56edd339d18
